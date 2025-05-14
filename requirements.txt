@@ -1,0 +1,10 @@
+# Core dependencies
+streamlit>=1.22.0
+dropbox>=11.36.0
+pandas>=1.5.3
+pillow>=9.5.0
+
+# Optional dependencies for enhanced functionality
+matplotlib>=3.7.1  # For additional visualization if needed
+requests>=2.30.0   # For additional HTTP requests if needed
+python-dotenv>=1.0.0  # For environment variable management
